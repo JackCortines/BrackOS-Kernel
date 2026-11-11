@@ -30,6 +30,9 @@ We welcome pull requests for:
 
 Please keep your PRs as focused as possible and include enough detail for reviewers to understand the change and its purpose.
 
+IMPORTANT: We welcome AI-generated PRs, but you must explicitly tell us in the PR if some parts are AI-Generated, and if so, then what parts. We reserve the right to close any PR that 
+looks like AI has been used without further review.
+
 ## Issues
 
 If you want to report a problem or suggest an improvement, please open an issue with as much relevant detail as possible, including:
